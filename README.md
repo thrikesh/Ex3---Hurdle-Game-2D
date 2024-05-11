@@ -26,7 +26,7 @@ Run the scene and display the output.
 
 ## PROGRAM:
 
-## NAME: NAVEEN S
+## NAME: THRIKESWAR
 ## REGISTER NO: 212222230162
 
 ### player.cs :
